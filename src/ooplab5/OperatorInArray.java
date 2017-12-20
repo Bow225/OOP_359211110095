@@ -1,5 +1,6 @@
 package ooplab5;
 
+import java.util.Scanner;
 public class OperatorInArray {
     public static void main(String[] args) {
         int number[] = {1,2,3,4,5};
