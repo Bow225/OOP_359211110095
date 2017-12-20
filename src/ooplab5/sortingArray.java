@@ -30,7 +30,7 @@ public class sortingArray {
 
     private static void sortingDataAscending(int[] number) {
         System.out.print("Ascending order: ");
-        Arrays.sort(number);
+        Array.sort(number);
         showData(number,number.length);
     }//sortingdata
 
