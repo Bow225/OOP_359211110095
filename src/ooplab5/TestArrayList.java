@@ -13,7 +13,7 @@ public class TestArrayList {
        System.out.println(list.size());
        list.remove(1);
        System.out.println(list);
-       list.add(1, element:"YAYA");
+       list.add()1, element:"YAYA");
        System.out.println(list);
        //       print with for loop
        for (int i = 0; i < list.size()) ;
